@@ -26,4 +26,4 @@
 ## ✅Экзаменационный билет №25
 Ответы на выбранный билет:
 
-[Билет №07](https://github.com/stankin/inet-2022/wiki/exam25)
+[Билет №25](https://github.com/stankin/inet-2022/wiki/exam25)
