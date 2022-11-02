@@ -1,4 +1,9 @@
 # Саржан Михаил ИДМ-22-02
+## Задачи
+1. [Экосистема разработки программ с открытым кодом (github)](https://github.com/SarmiAnsim/SarmiAnsim.github.io/blob/main/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-1)
+2. [Разработка простого веб-приложения](https://github.com/SarmiAnsim/SarmiAnsim.github.io/blob/main/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-2)
+3. [Настройка локальной сети передачи данных](https://github.com/SarmiAnsim/SarmiAnsim.github.io/blob/main/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-3)
+4. [Подготовка к экзамену](https://github.com/SarmiAnsim/SarmiAnsim.github.io/blob/main/README.md#%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B1%D0%B8%D0%BB%D0%B5%D1%82-25)
 
 ## ✅Лабораторная работа №1
 Экосистема разработки программ с открытым кодом (github):
