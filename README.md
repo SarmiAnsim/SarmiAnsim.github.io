@@ -61,3 +61,5 @@
 Ответы на выбранный билет:
 
 [Билет №25](https://github.com/stankin/inet-2022/wiki/exam25)
+
+Ссылка на коммит: [Мой вклад](https://github.com/stankin/inet-2022/wiki/exam25/956a11a2a64f1c747350304251a8e35f6ef8a385)
