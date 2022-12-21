@@ -56,11 +56,11 @@ TeamID: fbbe7ef1f99ac339f81d4f6d15c9cf96
 [Ссылка на страницу проекта](https://sarmiansim.github.io/ITLabs/)
 ## ✅Лабораторная работа №3
 1. Предоставление ранее выполненных работ по теме "Настройка локальной сети передачи данных"
-2. Загрузка в Git-репозиторий [отчета](https://sarmiansim.github.io/ИДБ-18-02_Саржан_ЛР2.pdf) о проделанной работе в Cisco Packet Tracer
+2. Загрузка в Git-репозиторий [отчета](https://github.com/SarmiAnsim/SarmiAnsim.github.io/blob/main/ИДБ-18-02_Саржан_ЛР2.pdf) о проделанной работе в Cisco Packet Tracer и [сценариев](https://github.com/SarmiAnsim/SarmiAnsim.github.io/tree/main/scenarios).
 
 ## ✅Экзаменационный билет №25
 Ответы на выбранный билет:
 
 [Билет №25](https://github.com/stankin/inet-2022/wiki/exam25)
 
-Ссылка на коммит: [Мой вклад](https://github.com/stankin/inet-2022/wiki/exam25/956a11a2a64f1c747350304251a8e35f6ef8a385)
+Ссылка на diff: [изменения в билете №25](https://github.com/stankin/inet-2022/wiki/exam25/_compare/5122ddd2075eb9c8403a6ea48537e7eb1edeb409...956a11a2a64f1c747350304251a8e35f6ef8a385)
